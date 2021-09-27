@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pixelbadge
+- 👀 I’m interested in .net core technologies
+- 📫 How to reach me info@pixelbadge.com
